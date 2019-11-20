@@ -37,7 +37,7 @@ var download = function (sessions) {
       "conflictAction": "prompt",
       "filename": folderName + "/" + filename,
       "method": "GET",
-      "url": session.videoURL
+      "url": session.videoURL.replace("Embed", "Social")
     });
 
     // send a notification
