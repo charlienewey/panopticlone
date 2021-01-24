@@ -1,3 +1,5 @@
+# Abandoned - I no longer maintain this
+
 # Panopticlone
 
 Automatically download lectures from Panopto (even when RSS feeds are disabled), and name them sensibly. Easier than using Panopto (because the software is dreadful), and you get to keep an offline copy - which saves everyone's bandwidth.
